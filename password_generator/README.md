@@ -16,4 +16,4 @@ HTML → CSS → JS → Tailwind CSS → React
 
 ## Inspiration
 
-This project is inspired by the React Series of [Chai and Code](https://www.youtube.com/@chaicode)
+This project is inspired by the React Series of [Chai and Code](https://www.youtube.com/@chaiaurcode)
