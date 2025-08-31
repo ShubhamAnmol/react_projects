@@ -1,7 +1,16 @@
-# Attemp to understand react's context API
-=> Hooks used
-    1. CreateContext
-    2. UseContext
+# Attempt to Understand React's Context API
 
-=> Understood createcontext's provider and consumer
-=> Also understood contextProvider functionality
+## Hooks Used
+
+1. `createContext`
+2. `useContext`
+
+## What I Learned
+
+- Understood `createContext`'s Provider and Consumer
+- Learned about `ContextProvider` functionality
+
+## Project Description
+
+This is a dummy project to explore the Context API.  
+You can give input to one component, and then it is passed to another component using the Context API, where it is read and displayed.
